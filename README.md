@@ -2,11 +2,11 @@
 
 Badges for your Projects written in TypeScript.
 
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-You may also like [Open Source & License Badges](https://github.com/ellerbrock/open-source-badge/) and the [Awesome TypeScript List](https://github.com/ellerbrock/awesome-typescript).
+You may also like [Open Source & License Badges](https://github.com/TwoPizza9621536/open-source-badge/) and the [Awesome TypeScript List](https://github.com/TwoPizza9621536/awesome-typescript).
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=102)](https://github.com/TwoPizza9621536/open-source-badge/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=102)](https://github.com/TwoPizza9621536/open-source-badge/) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=102)](https://github.com/TwoPizza9621536/open-source-badge/)
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=102)](https://opensource.org/licenses/mit-license.php) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=102)](https://opensource.org/licenses/GPL-3.0/)
 
@@ -14,133 +14,123 @@ You may also like [Open Source & License Badges](https://github.com/ellerbrock/o
 
 Size: 90x20px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 100x20px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 125x28px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-125x28.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-125x28.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-125x28.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-125x28.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 150x33px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 175x39px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-175x39.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-175x39.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-175x39.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-175x39.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 200x44px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-200x44.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-200x44.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-200x44.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-200x44.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 ## TypeScript Code Badge
 
 Size: 90x20px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 100x20px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 125x28px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-125x28.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-125x28.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-125x28.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-125x28.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 150x33px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-150x33.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-150x33.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-150x33.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-150x33.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 175x39px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-175x39.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-175x39.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-175x39.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-175x39.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 200x44px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-200x44.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-200x44.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-200x44.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-200x44.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 ## Awesome TypeScript Badge
 
 Size: 100x22px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=101)](https://github.com/ellerbrock/open-source-badge/)
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=101)](https://github.com/TwoPizza9621536/open-source-badge/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 125x28px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-125x28.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-125x28.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-125x28.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-125x28.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 150x33px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-150x33.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-150x33.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-150x33.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-150x33.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 175x39px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-175x39.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-175x39.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-175x39.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-175x39.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 Size: 200x44px
 
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-200x44.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-200x44.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-200x44.png?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript-200x44.png?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 ## TypeScript Version Badge
 
-[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v18.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v18.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v18.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v18.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
-[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)`
+`[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
-[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)
 
-`[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)`
-
-### Contact / Social Media
-
-*Get the latest News about Web Development, Open Source, Tooling, Server & Security*
-
-[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/frapsoft/)
-[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/frapsoft/)
-[![Google+](https://github.frapsoft.com/social/google-plus.png)](https://plus.google.com/116540931335841862774)
-[![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/frapsoft/frapsoft/)
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/ellerbrock/)
+`[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=101)](https://github.com/TwoPizza9621536/typescript-badges/)`
 
 ### Development by 
 
